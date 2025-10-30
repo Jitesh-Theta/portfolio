@@ -46,18 +46,18 @@ echo  Next Steps:
 echo ========================================
 echo.
 echo 1. Create a GitHub repository at https://github.com/new
-echo    Name it: jitesh-tambakhe-portfolio
+echo    Name it: portfolio
 echo.
 echo 2. After creating the repository, run these commands:
 echo.
-echo    git remote add origin https://github.com/YOUR_USERNAME/jitesh-tambakhe-portfolio.git
+echo    git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
 echo    git branch -M main
 echo    git push -u origin main
 echo.
 echo 3. Then GitHub Actions will automatically build and deploy your site!
 echo.
 echo Your portfolio will be available at:
-echo https://YOUR_USERNAME.github.io/jitesh-tambakhe-portfolio/
+echo https://YOUR_USERNAME.github.io/portfolio/
 echo.
 echo ========================================
 echo.

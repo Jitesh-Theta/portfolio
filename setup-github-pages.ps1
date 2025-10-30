@@ -55,15 +55,15 @@ Write-Host "========================================`n"
 Write-Host "Next Steps:`n" -ForegroundColor Cyan
 
 Write-Host "1. Create a GitHub repository at:`n   https://github.com/new`n" -ForegroundColor White
-Write-Host "   Recommended name: jitesh-tambakhe-portfolio`n"
+Write-Host "   Recommended name: portfolio`n"
 
 Write-Host "2. After creating, run these commands:`n" -ForegroundColor White
-Write-Host "   git remote add origin https://github.com/YOUR_USERNAME/jitesh-tambakhe-portfolio.git`n   git branch -M main`n   git push -u origin main`n"
+Write-Host "   git remote add origin https://github.com/YOUR_USERNAME/portfolio.git`n   git branch -M main`n   git push -u origin main`n"
 
 Write-Host "3. GitHub Actions will automatically deploy your portfolio!`n"
 
 Write-Host "Your portfolio will be available at:`n" -ForegroundColor Cyan
-Write-Host "https://YOUR_USERNAME.github.io/jitesh-tambakhe-portfolio/`n"
+Write-Host "https://YOUR_USERNAME.github.io/portfolio/`n"
 
 Write-Host "========================================`n"
 

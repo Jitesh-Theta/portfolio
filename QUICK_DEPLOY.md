@@ -9,14 +9,14 @@ npm install
 
 ### Step 2: Create GitHub Repository
 1. Go to https://github.com/new
-2. Repository name: `jitesh-tambakhe-portfolio`
+2. Repository name: `portfolio`
 3. Click "Create repository"
 
 ### Step 3: Connect Your Local Project to GitHub
 Replace `YOUR_USERNAME` with your actual GitHub username:
 
 ```bash
-git remote add origin https://github.com/YOUR_USERNAME/jitesh-tambakhe-portfolio.git
+git remote add origin https://github.com/YOUR_USERNAME/portfolio.git
 git branch -M main
 git push -u origin main
 ```
@@ -28,7 +28,7 @@ git push -u origin main
 ### Step 5: Access Your Portfolio
 After ~2-3 minutes, visit:
 ```
-https://YOUR_USERNAME.github.io/jitesh-tambakhe-portfolio/
+https://YOUR_USERNAME.github.io/portfolio/
 ```
 
 ---
@@ -62,7 +62,7 @@ GitHub Actions will automatically redeploy within 2-3 minutes.
 - Already configured in your project ✓
 
 ### Styles Not Applying?
-- Ensure `base: '/jitesh-tambakhe-portfolio/'` is set in vite.config.ts
+- Ensure `base: '/portfolio/'` is set in vite.config.ts
 - Already configured ✓
 
 ### Build Failing?
@@ -80,7 +80,7 @@ GitHub Actions will automatically redeploy within 2-3 minutes.
 ## 📝 File Structure
 
 ```
-jitesh-tambakhe-portfolio/
+portfolio/
 ├── .github/
 │   └── workflows/
 │       └── deploy.yml          # Automated deployment
@@ -98,12 +98,12 @@ jitesh-tambakhe-portfolio/
 
 Once deployed, share this URL:
 ```
-https://YOUR_USERNAME.github.io/jitesh-tambakhe-portfolio/
+https://YOUR_USERNAME.github.io/portfolio/
 ```
 
 **Example:**
 ```
-https://jiteshtambakhe.github.io/jitesh-tambakhe-portfolio/
+https://jiteshtambakhe.github.io/portfolio/
 ```
 
 ---

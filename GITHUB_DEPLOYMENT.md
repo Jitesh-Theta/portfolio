@@ -14,7 +14,7 @@ git commit -m "Initial commit: Portfolio with elegant dark theme"
 ## Step 2: Create a GitHub Repository
 
 1. Go to [GitHub](https://github.com/new)
-2. Create a new repository named `jitesh-tambakhe-portfolio` (or your preferred name)
+2. Create a new repository named `portfolio` (or your preferred name)
 3. Do NOT initialize with README, .gitignore, or license (we already have these)
 4. Copy the repository URL
 
@@ -135,7 +135,7 @@ GitHub Actions will automatically:
 
 After a few minutes (GitHub Actions need to complete), visit:
 ```
-https://YOUR_USERNAME.github.io/jitesh-tambakhe-portfolio/
+https://YOUR_USERNAME.github.io/portfolio/
 ```
 
 ## Troubleshooting
